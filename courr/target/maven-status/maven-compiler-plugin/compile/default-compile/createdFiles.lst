@@ -1,0 +1,7 @@
+com\example\courr\FileExtensionRecoveryService.class
+com\example\courr\Launcher.class
+com\example\courr\DialogUtil.class
+module-info.class
+com\example\courr\FileExtensionRecoveryAppFX.class
+com\example\courr\FileExtensionRecoveryController.class
+com\example\courr\FileExtensionRecoveryView.class
